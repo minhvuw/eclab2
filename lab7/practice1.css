@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color:red;
+    font-size: 300%;
+}
+
+a {
+    font-size: 150%;
+}
+
+t {
+    font-size: 150%;
+    padding: 30px;
+}
